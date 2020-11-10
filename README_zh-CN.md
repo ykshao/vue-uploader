@@ -4,7 +4,7 @@
 
 ![example](https://github.com/simple-uploader/vue-uploader/blob/master/example/simple-uploader.gif)
 
-![QQ](https://github.com/simple-uploader/Uploader/blob/develop/assets/simple-uploader-QQ.jpg?raw=true)
+![QQ](https://github.com/simple-uploader/Uploader/blob/develop/assets/simple-uploader-QQ-2.png?raw=true)
 
 ## 特性
 
@@ -31,6 +31,12 @@
 ``` bash
 npm install vue-simple-uploader --save
 ```
+
+## 笔记周边
+
+- https://www.cnblogs.com/xiahj/p/vue-simple-uploader.html
+- https://github.com/LuoLiangDSGA/spring-learning/tree/master/boot-uploader
+- http://www.smarthu.club
 
 ## 使用
 
